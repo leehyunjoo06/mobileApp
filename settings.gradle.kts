@@ -21,7 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "ComposeLab"
 include(":app")
-include(":1")
-include(":03")
-include(":04")
+include(":w01")
+include(":W03")
+include(":w04")
 include(":messagecard")
